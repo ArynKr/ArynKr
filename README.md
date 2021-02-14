@@ -1,4 +1,4 @@
-<img height="80em" src="https://avatars.githubusercontent.com/u/63502167?s=460&u=05f32e1d3b6a1e82a83fddcda5df1d53ebd4625e&v=4">
+<img height="200em" src="https://i.imgur.com/oWkDLKc.png">
 
 <h2> Hey there! I'm Aryan.</h2>
 
