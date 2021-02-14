@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing modern responsive websites.
+- 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
 - 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata.
 - 💼 &nbsp; Working as a Website Developer at [FindMyRank](https://www.findmyrank.com).
-- 🌱 &nbsp; Learning more about Web and Android Development & PWA's.
-- ❤ &nbsp; Love making websites and learning on the way.
+- 🌱 &nbsp; Learning more about Web, Android Development & PWA's.
+- ❤ &nbsp; Love making websites and constantly learning on the way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,7 +35,7 @@
   ![WebStorm](https://img.shields.io/badge/-WebStorm-333333?style=flat&logo=webstorm)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
 - 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd)
 
