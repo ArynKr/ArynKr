@@ -1,6 +1,6 @@
 <img width="12000em" src="https://i.imgur.com/dBbl61Y.png">
 
-<h2> Hey there! I'm Aryan.</h2>
+<h2> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
