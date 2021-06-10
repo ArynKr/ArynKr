@@ -6,8 +6,8 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
 - 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata.
-- 💼 &nbsp; Working as a Website Developer at [FindMyRank](https://www.findmyrank.com).
-- 🌱 &nbsp; Learning more about Web, Android Development & PWA's.
+<!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank](https://www.findmyrank.com). -->
+- 🌱 &nbsp; Learning more about Web, Mobile Development & PWA's.
 - ❤ &nbsp; Love making websites and constantly learning on the way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -41,6 +41,8 @@
 
 <br/>
 
+
+![Aryan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=arynkr&show_icons=true&hide_border=true)
 <!-- 
 <a href="https://github.com/ArynKr">
   <img height="180em" src="" />
