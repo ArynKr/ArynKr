@@ -3,13 +3,7 @@
 <h2> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-  <a href="https://app.daily.dev/ArynKr" target="_blank">
-      <img
-        width="272"
-        align="right"
-        src="./devcard.svg"
-      />
-   </a>
+  
 
 - 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
 - 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata.
@@ -18,6 +12,14 @@
 - ❤ &nbsp; Love making websites and constantly learning on the way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+  <a href="https://app.daily.dev/ArynKr" target="_blank">
+      <img
+        width="272"
+        align="right"
+        src="./devcard.svg"
+      />
+   </a>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
