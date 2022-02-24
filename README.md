@@ -3,6 +3,13 @@
 <h2> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+  <a href="https://app.daily.dev/ArynKr" target="_blank">
+      <img
+        width="288"
+        align="right"
+        src="./devcard.svg"
+      />
+   </a>
 
 - 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
 - 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata.
@@ -43,11 +50,6 @@
 
 
 ![Aryan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=arynkr&show_icons=true&hide_border=true)
-
-<a href="https://app.daily.dev/ArynKr">
-  <img height="400em" src="./devcard.svg" />
-</a>
-
 
 <br/>
 
