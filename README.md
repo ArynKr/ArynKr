@@ -1,4 +1,4 @@
-<img width="12000em" src="https://i.imgur.com/dBbl61Y.png">
+<img width="100%" src="https://i.imgur.com/dBbl61Y.png">
 
 <h2> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h2>
 
