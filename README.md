@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   <a href="https://app.daily.dev/ArynKr" target="_blank">
       <img
-        width="288"
+        width="272"
         align="right"
         src="./devcard.svg"
       />
