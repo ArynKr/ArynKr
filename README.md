@@ -43,12 +43,11 @@
 
 
 ![Aryan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=arynkr&show_icons=true&hide_border=true)
-<!-- 
-<a href="https://github.com/ArynKr">
-  <img height="180em" src="" />
-  <img height="180em" src="" />
+
+<a href="https://app.daily.dev/ArynKr">
+  <img height="400em" src="./devcard.svg" />
 </a>
--->
+
 
 <br/>
 
