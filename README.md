@@ -6,10 +6,9 @@
   
 
 - 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
-- 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata.
-<!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank](https://www.findmyrank.com). -->
+- 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata. <!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank] (https://www.findmyrank.com). -->
 - 🌱 &nbsp; Learning more about Web, Mobile Development & PWA's.
-- ❤ &nbsp; Love making websites and constantly learning on the way.
+- ❤ &nbsp; Love making full-stack responsive websites and constantly learning on the way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -65,3 +64,4 @@
 </p>
 
 ⭐️ [See My Projects](https://github.com/ArynKr)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArynKr.ArynKr)
