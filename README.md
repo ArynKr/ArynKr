@@ -1,30 +1,32 @@
-<img width="100%" src="https://i.imgur.com/dBbl61Y.png">
+<img width="100%" style="margin-bottom: 2rem;" src="./images/HeadImage.png" />
 
-<h2> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h2>
+<img style="margin-bottom: 1rem;" src="https://github-profile-trophy.vercel.app/?username=ArynKr&margin-w=15&margin-h=15&rank=C,B,A,AA,AAA,S,SSS,SECRET" />
+
+<h1> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h1>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
-
-- 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
-- 🎓 &nbsp; Studying Information Technology at Heritage Institute of Technology, Kolkata. <!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank] (https://www.findmyrank.com). -->
-- 🌱 &nbsp; Learning more about Web, Mobile Development & PWA's.
-- ❤ &nbsp; Love making full-stack responsive websites and constantly learning on the way.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
   <a href="https://app.daily.dev/ArynKr" target="_blank">
       <img
         width="272"
         align="right"
         src="./devcard.svg"
       />
-   </a>
+  </a>
+
+- 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
+- 🎓 &nbsp; Pursuing my B.tech with specialization in 'Information Technology' at Heritage Institute of Technology. <!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank] (https://www.findmyrank.com). -->
+- 🌱 &nbsp; Learning more about Web, Mobile Development & PWA's.
+- ❤ &nbsp; Love making full-stack responsive websites and constantly learning on the way.
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
+  ![ChakraUI](https://img.shields.io/badge/-ChakraUI-333333?style=flat&logo=chakra-ui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 💻 &nbsp;
@@ -49,20 +51,40 @@
 
 <br/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<p align="left">
+<a href="https://linkedin.com/in/ArynKr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Kumar LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/Aryn__Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aryan Kumar Twitter" height="30" width="40" /></a>
+<a href="https://dev.to/arynkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Aryan Kumar Dev.to" height="30" width="40" /></a>
+<a href="https://instagram.com/codequate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Codequate Instagram" height="30" width="40" /></a>
+<a href="mailto:aryankumar1504@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Mail to Aryan Kumar" height="30" width="40" /></a>
+
+</p>
+
+<!-- <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+ <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React" width="40" height="40"/> </a> <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.linkpicture.com/q/download_12.png" alt="node js" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
+</p> -->
+
 
 ![Aryan Kumar's github stats](https://github-readme-stats.vercel.app/api?username=arynkr&show_icons=true&hide_border=true)
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://github.com/arynkr"><img alt="Website" src="https://img.shields.io/badge/Website-Under Progress...-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ArynKr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ArynKr-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/TheArynKr"><img alt="Twitter" src="https://img.shields.io/badge/Twiiter-Aryn_Kr-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/Aryn__Kr"><img alt="Twitter" src="https://img.shields.io/badge/Twiiter-Aryn__Kr-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:aryankumar1504@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aryankumar1504@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<br />
+
 ⭐️ [See My Projects](https://github.com/ArynKr)
+
+<br />
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArynKr.ArynKr)
