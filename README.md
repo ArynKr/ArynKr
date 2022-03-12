@@ -1,6 +1,6 @@
 <img width="100%" style="margin-bottom: 2rem;" src="./images/HeadImage.png" />
 
-<img style="margin-bottom: 1rem;" src="https://github-profile-trophy.vercel.app/?username=ArynKr&margin-w=15&margin-h=15&rank=C,B,A,AA,AAA,S,SSS,SECRET" />
+<!-- <img style="margin-bottom: 1rem;" src="https://github-profile-trophy.vercel.app/?username=ArynKr&margin-w=15&margin-h=15&rank=C,B,A,AA,AAA,S,SSS,SECRET" /> -->
 
 <h1> Hi 👋! &nbspI'm <span color="blue">Aryan.</span></h1>
 
@@ -8,7 +8,7 @@
   
   <a href="https://app.daily.dev/ArynKr" target="_blank" class="devcard">
       <img
-        width="272"
+        width="256"
         align="right"
         src="./devcard.svg"
       />
