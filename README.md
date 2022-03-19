@@ -73,7 +73,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://github.com/arynkr"><img alt="Website" src="https://img.shields.io/badge/Website-Under Progress...-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://aryankumar.in"><img alt="Website" src="https://img.shields.io/badge/Website-Under Progress...-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ArynKr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ArynKr-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://twitter.com/Aryn__Kr"><img alt="Twitter" src="https://img.shields.io/badge/Twiiter-Aryn__Kr-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:aryankumar1504@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aryankumar1504@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -81,7 +81,7 @@
 
 <br />
 
-⭐️ [See My Projects](https://github.com/ArynKr)
+⭐️ [See My Projects](https://github.com/ArynKr?tab=repositories)
 
 <br />
 <br />
