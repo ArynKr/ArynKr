@@ -56,7 +56,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ArynKr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Kumar LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/Aryn__Kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aryan Kumar Twitter" height="30" width="40" /></a>
-<a href="https://dev.to/arynkr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Aryan Kumar Dev.to" height="30" width="40" /></a>
+<a href="https://app.daily.dev/ArynKr"><img src="https://api.daily.dev/devcards/01cea136d63a44c691c24546233082e4.png?r=dbd" width="400" alt="Aryan Kumar's Dev Card"/></a>
 <a href="https://instagram.com/codequate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Codequate Instagram" height="30" width="40" /></a>
 <a href="mailto:aryankumar1504@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Mail to Aryan Kumar" height="30" width="40" /></a>
 
