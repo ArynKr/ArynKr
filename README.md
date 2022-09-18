@@ -6,7 +6,14 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
   
-  <a href="https://app.daily.dev/ArynKr"><img src="https://api.daily.dev/devcards/01cea136d63a44c691c24546233082e4.png?r=dbd" width="400" alt="Aryan Kumar's Dev Card"/></a>
+  <a href="https://app.daily.dev/ArynKr">
+    <img 
+      src="https://api.daily.dev/devcards/01cea136d63a44c691c24546233082e4.png?r=dbd" \
+      width="256"
+      align="right" 
+      alt="Aryan Kumar's Dev Card"
+    />
+  </a>
 
 - 🤔 &nbsp; Exploring new technologies and developing full-stack, modern and responsive websites.
 - 🎓 &nbsp; Pursuing my B.tech with specialization in 'Information Technology' at Heritage Institute of Technology. <!-- - 💼 &nbsp; Working as a Website Developer at [FindMyRank] (https://www.findmyrank.com). -->
