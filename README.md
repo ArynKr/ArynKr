@@ -11,7 +11,7 @@
   <img
     width="256"
     align="right"
-    src="./devcard.svg"
+    src="./devcard.png"
   />
  </a>
 
