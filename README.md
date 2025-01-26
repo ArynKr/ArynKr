@@ -13,7 +13,7 @@
 
 <h3> &nbsp;👨‍💻 About Me </h3>
 
-<a href="https://app.daily.dev/arynkr" target="_blank" class="devcard"><img align="right" src="https://api.daily.dev/devcards/v2/e2CYSVJOIfYvsKEooG4tO.png?type=default&r=di1" width="220" alt="Aryan Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/arynkr" target="_blank" class="devcard"><img align="right" src="https://api.daily.dev/devcards/v2/e2CYSVJOIfYvsKEooG4tO.png?type=default&r=di1" width="200" alt="Aryan Kumar's Dev Card"/></a>
 
 I’m Aryan, a Software Development Engineer with over 2 years of experience building<br /> scalable and user-centric full-stack web applications and mobile solutions using<br /> technologies like **Next.js**, **React**, **React Native**, and N**ode.js**.
 
