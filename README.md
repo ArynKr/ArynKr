@@ -3,7 +3,7 @@
 
 <!-- <img style="margin-bottom: 1rem;" src="https://github-profile-trophy.vercel.app/?username=ArynKr&margin-w=15&margin-h=15&rank=C,B,A,AA,AAA,S,SSS,SECRET" /> -->
 <span>
- <h1>Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">, I am Aryan </h1>
+ <h1>Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"></h1>
   <!--
   [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://linkedin.com/in/arynkr)
   [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/aryn__kr)
@@ -13,24 +13,17 @@
 
 <h3> &nbsp;👨‍💻 About Me </h3>
 
-<a href="https://app.daily.dev/ArynKr" target="_blank" class="devcard">
-  <img
-    width="220"
-    align="right"
-    src="./devcard.png"
-  />
- </a>
+<a href="https://app.daily.dev/arynkr" target="_blank" class="devcard"><img align="right" src="https://api.daily.dev/devcards/v2/e2CYSVJOIfYvsKEooG4tO.png?type=default&r=di1" width="220" alt="Aryan Kumar's Dev Card"/></a>
 
-
- I specialize in developing full-stack web applications and mobile solutions with <br/> technologies like **Next.js**, **React**, **React Native** and **Node.js**.
+I’m Aryan, a Software Development Engineer with over 2 years of experience building<br /> scalable and user-centric full-stack web applications and mobile solutions using<br /> technologies like **Next.js**, **React**, **React Native**, and N**ode.js**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 ⚙️ &nbsp;
-  ![NextJS](https://img.shields.io/badge/-Next%20JS-333333?style=flat&logo=next)
+  ![NextJS](https://img.shields.io/badge/-Next%20JS-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node%20JS-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) <br />
+  ![Express](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react) <br />
 💻 &nbsp;
   ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=fffffff)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=fffffff)
