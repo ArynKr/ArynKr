@@ -11,11 +11,7 @@
   -->
 </span>
 
-<h3> &nbsp;👨‍💻 About Me </h3>
-
-<a href="https://app.daily.dev/arynkr" target="_blank" class="devcard"><img align="right" src="https://api.daily.dev/devcards/v2/e2CYSVJOIfYvsKEooG4tO.png?type=default&r=di1" width="200" alt="Aryan Kumar's Dev Card"/></a>
-
-I’m Aryan, a Software Development Engineer with over 2 years of experience building<br /> scalable and user-centric full-stack web applications and mobile solutions using<br /> technologies like **Next.js**, **React**, **React Native**, and N**ode.js**.
+I’m Aryan, a Software Development Engineer with over 2 years of experience building<br /> scalable and user-centric full-stack web applications and mobile solutions using<br /> technologies like **Next.js**, **React**, **React Native**, and **Node.js**.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -32,7 +28,6 @@ I’m Aryan, a Software Development Engineer with over 2 years of experience bui
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +39,5 @@ I’m Aryan, a Software Development Engineer with over 2 years of experience bui
 <a href="mailto:aryankumar1504@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/plasticine/40/000000/gmail.png" alt="Mail to Aryan Kumar" height="40" width="40" /></a>
 </p>
 
-<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ArynKr.ArynKr)
